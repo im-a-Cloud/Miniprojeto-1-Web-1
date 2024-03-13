@@ -1,0 +1,64 @@
+.centro1{
+	background-color: lightgray;
+    height: 300px;
+	text-align: center;
+	position: relative;
+}
+.textoCentro{
+ 	position: absolute;
+    top: 50%;
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    color:darkblue;
+}
+h1{
+	color: darkblue;
+}
+.texto1{
+	color: darkblue;
+}
+.texto2{
+	color: green;
+}
+.link1{
+	color: red;
+}
+.link2{
+	color: purple;
+}
+.lista1{
+	color: orange;
+	list-style-type: square;
+}
+.lista2{
+	color: brown;
+    list-style-type: circle;
+}
+.tabela{
+	width: 100%;
+	text-align: center;
+}
+.coluna {
+    width: 50%;
+    text-align: center;
+}
+tr{
+	height: 40px;
+}
+th{
+	background-color: lightslategray;
+}
+tbody tr:nth-child(even) {
+    background-color:lightslategray;
+}
+
+/* Aplica cores alternadas para linhas ímpares */
+tbody tr:nth-child(odd) {
+    background-color: ;
+}
+.imagem img{
+    width: 300px;
+    height: auto;
+    position: absolute;
+    right: 20px;
+}

@@ -1,0 +1,54 @@
+.tabela{
+	width: 95%;
+	text-align: center;
+}
+td {
+    width: 25%;
+    text-align: center;
+}
+.colunaPreco1{
+	background-color: lightblue;
+	color: white;
+	height: 50px; /* Altura da célula */
+	font-size: 30px;
+	font-weight: bold;
+}
+.colunaPreco2{
+	background-color: blue;
+	color: white;
+	height: 50px; /* Altura da célula */
+	font-size: 30px;
+	font-weight: bold;
+}
+.colunaPreco3{
+	background-color: darkblue;
+	color: white;
+	height: 50px; /* Altura da célula */
+	font-size: 30px;
+	font-weight: bold;
+}
+.colunaBotao1{
+	background-color: lightblue;
+	color: white;
+	height: 40px;
+}
+.colunaBotao2{
+	background-color: blue;
+	color: white;
+	height: 40px;
+}
+.colunaBotao3{
+	background-color: darkblue;
+	color: white;
+	height: 40px;
+}
+.colunaTitulo1, .colunaTitulo2, .colunaTitulo3 {
+	color: lightgrey;
+	font-size: 20px;
+}
+.colunaLado1, .colunaLado2,.colunaLado3, .colunaLado4,.colunaLado5 {
+	text-align: left;
+}
+.colunaComum{
+	height: 30px;
+}

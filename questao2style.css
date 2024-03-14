@@ -1,0 +1,101 @@
+td{
+    height:60px;
+    width: 60px;
+}
+
+.peoesCima{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    background-image: url('https://static.wikia.nocookie.net/finalfantasy/images/b/ba/PFF_Gilgamesh_Illust.png/revision/latest/scale-to-width-down/250?cb=20151126182519&path-prefix=pt-br'); /* substitua 'exemplo.jpg' pelo caminho da sua imagem */
+    background-size: cover;
+    background-position: center;
+}
+.torresCima{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    background-image: url('https://lh3.googleusercontent.com/proxy/_sB1A-D86ZEKI-rnwUW_0iNEnKtyCLHaqouGNNi_vfSX-kBz2G3bnhmu2BJYNJKlizpgJmS-4X5qwYyrH2FZHU-dSkyGFd6IeUVCY2SPFoOiYdHhzMdpN9qpJC5P-yCqxADAYNcW6Ds73DBE1UHKldkWXIxrXfAVBKPJ05o'); /* substitua 'exemplo.jpg' pelo caminho da sua imagem */
+    background-size: cover;
+    background-position: center;
+}
+.cavaleirosCima{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    background-image: url('https://static.wikia.nocookie.net/finalfantasy/images/c/c0/PFF_Golbez_Illust.png/revision/latest/scale-to-width-down/250?cb=20141031223816'); /* substitua 'exemplo.jpg' pelo caminho da sua imagem */
+    background-size: cover;
+    background-position: center;
+}
+.bisposCima{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    background-image: url('https://static.wikia.nocookie.net/finalfantasy/images/e/e4/PFF_Seymour_Illust.png/revision/latest?cb=20151123165741&path-prefix=pt-br'); /* substitua 'exemplo.jpg' pelo caminho da sua imagem */
+    background-size: cover;
+    background-position: center;
+}
+.reiCima{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    background-image: url('https://static.wikia.nocookie.net/finalfantasy/images/5/5d/PFF_Imperatore.png/revision/latest?cb=20150918010321&path-prefix=it'); /* substitua 'exemplo.jpg' pelo caminho da sua imagem */
+    background-size: cover;
+    background-position: center;
+}
+.rainhaCima{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    background-image: url('https://static.wikia.nocookie.net/finalfantasy/images/7/7a/PFF_Kefka_Illust.png/revision/latest/scale-to-width-down/250?cb=20150811024555'); /* substitua 'exemplo.jpg' pelo caminho da sua imagem */
+    background-size: cover;
+    background-position: center;
+}
+.peoesBaixo{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    background-image: url('https://static.wikia.nocookie.net/finalfantasy/images/9/94/PFF_Bartz_Klauser.png/revision/latest/scale-to-width-down/250?cb=20181210223844'); /* substitua 'exemplo.jpg' pelo caminho da sua imagem */
+    background-size: cover;
+    background-position: center;
+}
+.torresBaixo{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    background-image: url('https://static.wikia.nocookie.net/finalfantasy/images/1/1c/PFF_Warrior_Illust.png/revision/latest/scale-to-width-down/250?cb=20180805043441'); /* substitua 'exemplo.jpg' pelo caminho da sua imagem */
+    background-size: cover;
+    background-position: center;
+}
+.cavaleirosBaixo{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    background-image: url('https://static.wikia.nocookie.net/finalfantasy/images/9/94/PFF_Cecil_Illust.png/revision/latest/scale-to-width-down/250?cb=20150730200902&path-prefix=pt-br'); /* substitua 'exemplo.jpg' pelo caminho da sua imagem */
+    background-size: cover;
+    background-position: center;
+}
+.bisposBaixo{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    background-image: url('https://preview.redd.it/sa0v196cygn41.png?width=199&format=png&auto=webp&s=6f1ebc3bbd8665cee06f7f70fa1b6907ca50ad7f'); /* substitua 'exemplo.jpg' pelo caminho da sua imagem */
+    background-size: cover;
+    background-position: center;
+}
+.reiBaixo{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    background-image: url('https://static.wikia.nocookie.net/finalfantasy/images/4/49/Noctis_in_World_of_Final_Fantasy_Maxima.png/revision/latest/scale-to-width/360?cb=20180914054421'); /* substitua 'exemplo.jpg' pelo caminho da sua imagem */
+    background-size: cover;
+    background-position: center;
+}
+.rainhaBaixo{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    background-image: url('https://static.wikia.nocookie.net/finalfantasy/images/2/2a/PFF_Terra_Illust.png/revision/latest/scale-to-width-down/250?cb=20180805043753'); /* substitua 'exemplo.jpg' pelo caminho da sua imagem */
+    background-size: cover;
+    background-position: center;
+}
